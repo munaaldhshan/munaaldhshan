@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm muna aldhshan</h1>
-<h3 align="center">A passionate network security learner</h3>
-
-- 🌱 I’m currently learning **network security and embedded systems**
 
 - 📫 How to reach me **munaaldhshan16@gmail.com**
 
